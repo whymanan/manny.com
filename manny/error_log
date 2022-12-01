@@ -1,0 +1,52 @@
+[27-Jun-2022 13:51:30 Asia/Calcutta] PHP Fatal error:  Cannot redeclare Users_model::get_parent_wallet() in /home/nextmoney/public_html/nextmoney/application/models/Users_model.php on line 457
+[27-Jun-2022 13:52:17 Asia/Calcutta] PHP Fatal error:  Cannot redeclare Users_model::get_parent_wallet() in /home/nextmoney/public_html/nextmoney/application/models/Users_model.php on line 457
+[27-Jun-2022 13:53:02 Asia/Calcutta] PHP Fatal error:  Cannot redeclare Users_model::get_parent_wallet() in /home/nextmoney/public_html/nextmoney/application/models/Users_model.php on line 457
+[27-Jun-2022 13:53:20 Asia/Calcutta] PHP Fatal error:  Cannot redeclare Users_model::get_parent_wallet() in /home/nextmoney/public_html/nextmoney/application/models/Users_model.php on line 457
+[27-Jun-2022 13:58:15 Asia/Calcutta] PHP Fatal error:  Cannot redeclare Users_model::get_parent_wallet() in /home/nextmoney/public_html/nextmoney/application/models/Users_model.php on line 457
+[27-Jun-2022 15:03:36 Asia/Calcutta] PHP Fatal error:  Cannot redeclare Users_model::get_parent_wallet() in /home/nextmoney/public_html/nextmoney/application/models/Users_model.php on line 457
+[27-Jun-2022 15:04:04 Asia/Calcutta] PHP Fatal error:  Cannot redeclare Users_model::get_parent_wallet() in /home/nextmoney/public_html/nextmoney/application/models/Users_model.php on line 457
+[27-Jun-2022 15:04:44 Asia/Calcutta] PHP Fatal error:  Cannot redeclare Users_model::get_parent_wallet() in /home/nextmoney/public_html/nextmoney/application/models/Users_model.php on line 457
+[27-Jun-2022 15:05:00 Asia/Calcutta] PHP Fatal error:  Cannot redeclare Users_model::get_parent_wallet() in /home/nextmoney/public_html/nextmoney/application/models/Users_model.php on line 457
+[27-Jun-2022 15:05:03 Asia/Calcutta] PHP Fatal error:  Cannot redeclare Users_model::get_parent_wallet() in /home/nextmoney/public_html/nextmoney/application/models/Users_model.php on line 457
+[27-Jun-2022 15:05:09 Asia/Calcutta] PHP Fatal error:  Cannot redeclare Users_model::get_parent_wallet() in /home/nextmoney/public_html/nextmoney/application/models/Users_model.php on line 457
+[27-Jun-2022 15:44:23 Asia/Calcutta] PHP Fatal error:  Cannot redeclare Users_model::get_parent_wallet() in /home/nextmoney/public_html/nextmoney/application/models/Users_model.php on line 457
+[27-Jun-2022 15:44:23 Asia/Calcutta] PHP Fatal error:  Cannot redeclare Users_model::get_parent_wallet() in /home/nextmoney/public_html/nextmoney/application/models/Users_model.php on line 457
+[27-Jun-2022 15:44:26 Asia/Calcutta] PHP Fatal error:  Cannot redeclare Users_model::get_parent_wallet() in /home/nextmoney/public_html/nextmoney/application/models/Users_model.php on line 457
+[27-Jun-2022 15:45:46 Asia/Calcutta] PHP Fatal error:  Cannot redeclare Users_model::get_parent_wallet() in /home/nextmoney/public_html/nextmoney/application/models/Users_model.php on line 457
+[27-Jun-2022 15:49:24 Asia/Calcutta] PHP Fatal error:  Cannot redeclare Users_model::get_parent_wallet() in /home/nextmoney/public_html/nextmoney/application/models/Users_model.php on line 457
+[27-Jun-2022 15:49:24 Asia/Calcutta] PHP Fatal error:  Cannot redeclare Users_model::get_parent_wallet() in /home/nextmoney/public_html/nextmoney/application/models/Users_model.php on line 457
+[27-Jun-2022 15:49:24 Asia/Calcutta] PHP Fatal error:  Cannot redeclare Users_model::get_parent_wallet() in /home/nextmoney/public_html/nextmoney/application/models/Users_model.php on line 457
+[27-Jun-2022 15:49:43 Asia/Calcutta] PHP Fatal error:  Cannot redeclare Users_model::get_parent_wallet() in /home/nextmoney/public_html/nextmoney/application/models/Users_model.php on line 457
+[27-Jun-2022 15:49:43 Asia/Calcutta] PHP Fatal error:  Cannot redeclare Users_model::get_parent_wallet() in /home/nextmoney/public_html/nextmoney/application/models/Users_model.php on line 457
+[27-Jun-2022 15:49:44 Asia/Calcutta] PHP Fatal error:  Cannot redeclare Users_model::get_parent_wallet() in /home/nextmoney/public_html/nextmoney/application/models/Users_model.php on line 457
+[27-Jun-2022 15:50:13 Asia/Calcutta] PHP Fatal error:  Cannot redeclare Users_model::get_parent_wallet() in /home/nextmoney/public_html/nextmoney/application/models/Users_model.php on line 457
+[27-Jun-2022 17:51:37 Asia/Calcutta] PHP Fatal error:  Cannot redeclare Users_model::get_parent_wallet() in /home/nextmoney/public_html/nextmoney/application/models/Users_model.php on line 457
+[27-Jun-2022 17:51:37 Asia/Calcutta] PHP Fatal error:  Cannot redeclare Users_model::get_parent_wallet() in /home/nextmoney/public_html/nextmoney/application/models/Users_model.php on line 457
+[27-Jun-2022 17:51:37 Asia/Calcutta] PHP Fatal error:  Cannot redeclare Users_model::get_parent_wallet() in /home/nextmoney/public_html/nextmoney/application/models/Users_model.php on line 457
+[27-Jun-2022 17:52:13 Asia/Calcutta] PHP Fatal error:  Cannot redeclare Users_model::get_parent_wallet() in /home/nextmoney/public_html/nextmoney/application/models/Users_model.php on line 457
+[27-Jun-2022 17:52:58 Asia/Calcutta] PHP Fatal error:  Cannot redeclare Users_model::get_parent_wallet() in /home/nextmoney/public_html/nextmoney/application/models/Users_model.php on line 457
+[27-Jun-2022 17:52:58 Asia/Calcutta] PHP Fatal error:  Cannot redeclare Users_model::get_parent_wallet() in /home/nextmoney/public_html/nextmoney/application/models/Users_model.php on line 457
+[27-Jun-2022 17:52:58 Asia/Calcutta] PHP Fatal error:  Cannot redeclare Users_model::get_parent_wallet() in /home/nextmoney/public_html/nextmoney/application/models/Users_model.php on line 457
+[27-Jun-2022 17:53:40 Asia/Calcutta] PHP Fatal error:  Cannot redeclare Users_model::get_parent_wallet() in /home/nextmoney/public_html/nextmoney/application/models/Users_model.php on line 457
+[27-Jun-2022 18:25:54 Asia/Calcutta] PHP Fatal error:  Cannot redeclare Users_model::get_parent_wallet() in /home/nextmoney/public_html/nextmoney/application/models/Users_model.php on line 457
+[06-Jul-2022 15:28:01 Asia/Calcutta] PHP Fatal error:  Cannot redeclare Pay::aadharpay_charge() in /home/nextmoney/public_html/nextmoney/application/controllers/Pay.php on line 655
+[06-Jul-2022 15:29:50 Asia/Calcutta] PHP Fatal error:  Cannot redeclare Pay::aadharpay_charge() in /home/nextmoney/public_html/nextmoney/application/controllers/Pay.php on line 655
+[06-Jul-2022 15:42:00 Asia/Calcutta] PHP Fatal error:  Cannot redeclare Pay::aadharpay_charge() in /home/nextmoney/public_html/nextmoney/application/controllers/Pay.php on line 655
+[06-Jul-2022 16:27:45 Asia/Calcutta] PHP Fatal error:  Cannot redeclare Pay::aadharpay_charge() in /home/nextmoney/public_html/nextmoney/application/controllers/Pay.php on line 655
+[06-Jul-2022 16:28:04 Asia/Calcutta] PHP Fatal error:  Cannot redeclare Pay::aadharpay_charge() in /home/nextmoney/public_html/nextmoney/application/controllers/Pay.php on line 655
+[06-Jul-2022 16:37:21 Asia/Calcutta] PHP Fatal error:  Cannot redeclare Pay::aadharpay_charge() in /home/nextmoney/public_html/nextmoney/application/controllers/Pay.php on line 655
+[07-Jul-2022 10:04:01 Asia/Calcutta] PHP Fatal error:  Cannot redeclare Pay::aadharpay_charge() in /home/nextmoney/public_html/nextmoney/application/controllers/Pay.php on line 655
+[07-Jul-2022 10:41:43 Asia/Calcutta] PHP Fatal error:  Cannot redeclare Pay::aadharpay_charge() in /home/nextmoney/public_html/nextmoney/application/controllers/Pay.php on line 655
+[07-Jul-2022 10:55:11 Asia/Calcutta] PHP Fatal error:  Cannot redeclare Pay::aadharpay_charge() in /home/nextmoney/public_html/nextmoney/application/controllers/Pay.php on line 655
+[07-Jul-2022 10:56:24 Asia/Calcutta] PHP Fatal error:  Cannot redeclare Pay::aadharpay_charge() in /home/nextmoney/public_html/nextmoney/application/controllers/Pay.php on line 655
+[07-Jul-2022 11:07:06 Asia/Calcutta] PHP Fatal error:  Cannot redeclare Pay::aadharpay_charge() in /home/nextmoney/public_html/nextmoney/application/controllers/Pay.php on line 655
+[07-Jul-2022 12:00:55 Asia/Calcutta] PHP Fatal error:  Cannot redeclare Pay::aadharpay_charge() in /home/nextmoney/public_html/nextmoney/application/controllers/Pay.php on line 655
+[07-Jul-2022 12:01:34 Asia/Calcutta] PHP Fatal error:  Cannot redeclare Pay::aadharpay() in /home/nextmoney/public_html/nextmoney/application/controllers/Pay.php on line 655
+[14-Oct-2022 17:56:21 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097152 bytes) in /home/nextmoney/public_html/nextmoney/application/libraries/Format.php on line 406
+[17-Oct-2022 21:01:11 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097152 bytes) in /home/nextmoney/public_html/nextmoney/application/libraries/Format.php on line 406
+[17-Oct-2022 21:03:05 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097152 bytes) in /home/nextmoney/public_html/nextmoney/application/libraries/Format.php on line 406
+[18-Oct-2022 18:06:49 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097152 bytes) in /home/nextmoney/public_html/nextmoney/application/libraries/Format.php on line 406
+[19-Oct-2022 18:38:36 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097152 bytes) in /home/nextmoney/public_html/nextmoney/application/libraries/Format.php on line 406
+[07-Nov-2022 17:54:17 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/nextmoney/public_html/nextmoney/system/database/drivers/mysqli/mysqli_result.php on line 168
+[12-Nov-2022 11:18:49 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/nextmoney/public_html/nextmoney/system/database/drivers/mysqli/mysqli_result.php on line 168
+[25-Nov-2022 10:50:59 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/nextmoney/public_html/nextmoney/system/database/drivers/mysqli/mysqli_result.php on line 168
